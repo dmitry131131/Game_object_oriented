@@ -18,5 +18,6 @@ while run:
             run = False
 
     pygame.display.flip()  # после отрисовки всего показывает результат пользователю(переворачивает экран)
-
+nsabdjfkfcsdfjhxzdfjcnzx gjhxfkjkcbsdvhljzcn
+fvkbsdgvm\sdjfvayeFUDHSX
 pygame.quit()
